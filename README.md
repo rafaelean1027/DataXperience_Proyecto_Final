@@ -62,6 +62,11 @@ Este enfoque puede servir como base para sistemas de localización de activos, a
 2. Cargar el archivo `data/wifi_localization.txt` en el almacenamiento de la sesión.
 3. Ejecutar las celdas en orden.
 
+## Video de presentación
+
+El video final del proyecto puede consultarse en el siguiente enlace:
+https://universidadeaneduco-my.sharepoint.com/:f:/g/personal/rhernan23683_universidadean_edu_co/IgAlQUfgDDkbS5d3T1cbDZwsAREE-KqIPb4GtyZAgfWmSSw?e=6wJxzB
+
 ## Autor
 
 Rafael Alejandro Hernandez Falla  
